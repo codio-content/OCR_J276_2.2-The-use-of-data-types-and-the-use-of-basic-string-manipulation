@@ -5,5 +5,5 @@ Changing the case to upper and lower case could be done in the following way:
 ```
 entry = input(“Please enter ‘X’ to exit the game.”)
 entryUpperCase  = entry.upper
-entryLowerCase = entrylower
+entryLowerCase = entry.lower
 ```
