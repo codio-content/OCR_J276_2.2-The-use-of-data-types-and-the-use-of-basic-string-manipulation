@@ -1,0 +1,91 @@
+[
+ {
+  "type": "fill-in-the-blanks",
+  "taskId": "fill-in-the-blanks-4042634723",
+  "source": {
+   "name": "Question1",
+   "showName": false,
+   "instructions": "**In the following table select the data type that matches the description.**",
+   "points": "1",
+   "showValues": true,
+   "text": "|**Description** |**Data type**| \n| :------ | :----------- |\n|A list of alphanumeric characters.| <<<String>>>|\n|A numeric value without a decimal place.|<<<Integer>>>\n|Two values: True or False.|<<<Boolean>>>|\n|Any number including those with decimal places.|<<<Real>>>|\n|A single alphanumeric character.|<<<Character>>>|",
+   "tokens": {
+    "blank": [
+     "String",
+     "Integer",
+     "Boolean",
+     "Real",
+     "Character"
+    ],
+    "text": [
+     "|**Description** |**Data type**| \n| :------ | :----------- |\n|A list of alphanumeric characters.| ",
+     0,
+     "|\n|A numeric value without a decimal place.|",
+     0,
+     "\n|Two values: True or False.|",
+     0,
+     "|\n|Any number including those with decimal places.|",
+     0,
+     "|\n|A single alphanumeric character.|",
+     0,
+     "|"
+    ]
+   }
+  }
+ },
+ {
+  "type": "fill-in-the-blanks",
+  "taskId": "fill-in-the-blanks-3341226643",
+  "source": {
+   "name": "Question2",
+   "showName": false,
+   "instructions": "In the string **This is question 2.** state the index positions of the following characters.",
+   "points": "1",
+   "showValues": false,
+   "text": "The letter ‘h’ = <<<1>>>\nThe letter ‘q’ = <<<8>>>\nThe number ‘2’ = <<<17>>>",
+   "tokens": {
+    "blank": [
+     "1",
+     "8",
+     "17"
+    ],
+    "text": [
+     "The letter ‘h’ = ",
+     0,
+     "\nThe letter ‘q’ = ",
+     0,
+     "\nThe number ‘2’ = ",
+     0
+    ]
+   }
+  }
+ },
+ {
+  "type": "fill-in-the-blanks",
+  "taskId": "fill-in-the-blanks-3322336521",
+  "source": {
+   "name": "Question3",
+   "showName": false,
+   "instructions": "In the string **This is question 2.** State the substrings that would be returned from the following commands.",
+   "points": "1",
+   "showValues": false,
+   "text": "string.substring(3, 3) = <<<s i>>>\nstring.substring(0, 1) = <<<T>>>\nstring.substring(8, 8) = <<<question>>>\n",
+   "tokens": {
+    "blank": [
+     "s i",
+     "T",
+     "question"
+    ],
+    "text": [
+     "string.substring(3, 3) = ",
+     0,
+     "\nstring.substring(0, 1) = ",
+     0,
+     "\nstring.substring(8, 8) = ",
+     0,
+     "\n"
+    ]
+   }
+  }
+ }
+]

@@ -1,0 +1,1 @@
+In this lesson we will look at the different data types that can be used and how strings can be manipulated during the running of a program.

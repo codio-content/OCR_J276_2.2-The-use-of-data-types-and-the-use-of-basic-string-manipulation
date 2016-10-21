@@ -1,0 +1,128 @@
+{
+ "sections": [
+  {
+   "id": "34dc02b7-d975-173b-bf0c-f7c523a09bb2",
+   "title": "The use of data types and the use of basic string manipulation",
+   "files": [],
+   "path": [],
+   "type": "markdown",
+   "content-file": ".guides/content/The-use-of-data-types-and-the-use-of-basic-string-manipulation-34dc.md",
+   "chapter": false,
+   "reset": [],
+   "teacherOnly": false
+  },
+  {
+   "id": "6133ca20-d360-9b38-315b-5bcc276887a1",
+   "title": "Data types",
+   "files": [],
+   "path": [],
+   "type": "markdown",
+   "content-file": ".guides/content/Data-types-6133.md",
+   "chapter": false,
+   "reset": [],
+   "teacherOnly": false
+  },
+  {
+   "id": "d4a0cda6-d135-b292-0878-aa040c1f7264",
+   "title": "Converting strings to numbers and numbers to strings",
+   "files": [],
+   "path": [],
+   "type": "markdown",
+   "content-file": ".guides/content/Converting-strings-to-numbers-and-numbers-to-strings-d4a0.md",
+   "chapter": false,
+   "reset": [],
+   "teacherOnly": false
+  },
+  {
+   "id": "43df51bc-ecaf-f7d0-0399-fd9946eb4607",
+   "title": "Basic string manipulation",
+   "files": [],
+   "path": [],
+   "type": "markdown",
+   "content-file": ".guides/content/Basic-string-manipulation-43df.md",
+   "chapter": false,
+   "reset": [],
+   "teacherOnly": false
+  },
+  {
+   "id": "db79fa04-0d01-18ae-402b-61dadd2ce1ed",
+   "title": "Finding the length of a string",
+   "files": [],
+   "path": [],
+   "type": "markdown",
+   "content-file": ".guides/content/Finding-the-length-of-a-string-db79.md",
+   "chapter": false,
+   "reset": [],
+   "teacherOnly": false
+  },
+  {
+   "id": "10df019e-b4d5-5f41-4975-ed16e355f466",
+   "title": "Traversing a string",
+   "files": [],
+   "path": [],
+   "type": "markdown",
+   "content-file": ".guides/content/Traversing-a-string-10df.md",
+   "chapter": false,
+   "reset": [],
+   "teacherOnly": false
+  },
+  {
+   "id": "fc1e46b4-2f8f-df44-f689-d26e9e13883d",
+   "title": "Concatenation",
+   "files": [],
+   "path": [],
+   "type": "markdown",
+   "content-file": ".guides/content/Concatenation-fc1e.md",
+   "chapter": false,
+   "reset": [],
+   "teacherOnly": false
+  },
+  {
+   "id": "d1191a19-528d-3870-efb4-e32e231a683e",
+   "title": "Substrings",
+   "files": [],
+   "path": [],
+   "type": "markdown",
+   "content-file": ".guides/content/Substrings-d119.md",
+   "chapter": false,
+   "reset": [],
+   "teacherOnly": false
+  },
+  {
+   "id": "d3644f68-762b-c2f7-a7ab-afcc388e5d71",
+   "title": "Changing case",
+   "files": [],
+   "path": [],
+   "type": "markdown",
+   "content-file": ".guides/content/Changing-case-d364.md",
+   "chapter": false,
+   "reset": [],
+   "teacherOnly": false
+  },
+  {
+   "id": "661f9464-d8df-5dea-a803-9d1f5a49555a",
+   "title": "Summary",
+   "files": [],
+   "path": [],
+   "type": "markdown",
+   "content-file": ".guides/content/Summary-661f.md",
+   "chapter": false,
+   "reset": [],
+   "teacherOnly": false
+  },
+  {
+   "id": "92fc443b-14a3-48b4-ebf5-23d75aa7ba41",
+   "title": "Questions",
+   "files": [],
+   "path": [],
+   "type": "markdown",
+   "content-file": ".guides/content/Questions-92fc.md",
+   "chapter": false,
+   "reset": [],
+   "teacherOnly": false
+  }
+ ],
+ "theme": "light",
+ "scripts": [],
+ "lexikonTopic": ""
+}
